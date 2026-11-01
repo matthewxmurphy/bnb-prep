@@ -1,0 +1,4 @@
+# Local test scaffolding and generated job output stay out of the repo.
+fixture-work/
+*.zip
+.DS_Store
